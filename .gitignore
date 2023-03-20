@@ -11,3 +11,12 @@ node_modules
 
 # macOS related files
 .DS_Store
+
+# Local Netlify folder
+.netlify
+
+# Other
+design-files
+yt link.txt
+README.md 
+LICENSE
